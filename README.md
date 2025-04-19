@@ -28,6 +28,8 @@ Développer un jeu de dames avec une **intelligence artificielle** en Python, ba
 - IA avec logique d’anticipation des coups
 - Interface utilisateur simple et intuitive
 
+![Image du jeu](image.png)
+
 ## 🚧 Limites & Bugs connus
 
 - Quelques bugs d’affichage et de gestion des coups complexes persistent
